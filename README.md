@@ -1,16 +1,19 @@
-### Hi there 👋
+# Maceo Cardinale Kwik
 
-<!--
-**maceoCK/maceoCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Project: Developing an Amazon Boycott and Ethical Consumerism Checker
 
-Here are some ideas to get you started:
+🌱 Currently learning: Enhancing my skills in React.js and Python for data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Looking to collaborate on: Exciting software projects and innovative solutions
+
+🤔 Looking for help with: Exploring advanced machine learning techniques
+
+💬 Ask me about: Software development, data visualization, and ethical consumerism
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maceo-cardinale-kwik)
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I co-founded a non-profit, Lighthouse Startups, dedicated to nurturing student entrepreneurship.
+
+🎮 Hobbies: Fencing, Photography, Bouldering, Running, Sewing, Thrifting, Crocheting, and Reading Science Fiction Books
