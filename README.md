@@ -2,7 +2,7 @@
 
 🔭 Project: Developing an Amazon Boycott and Ethical Consumerism Checker
 
-🌱 Currently learning: Enhancing my skills in React.js and Python for data analysis
+🌱 Currently learning: Enhancing my skills in React.js and Python for data analysis and visualization
 
 👯 Looking to collaborate on: Exciting software projects and innovative solutions
 
