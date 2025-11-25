@@ -27,6 +27,8 @@ current_focus:
     - "AI/ML-powered matching systems"
     - "Full-stack product development"
 ```
+---
+![Maceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maceoCK)
 
 ---
 
