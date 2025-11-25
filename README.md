@@ -28,7 +28,8 @@ current_focus:
     - "Full-stack product development"
 ```
 ---
-![Maceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=maceoCK)
+![](https://raw.githubusercontent.com/maceoCK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/maceoCK/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 
