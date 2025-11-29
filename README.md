@@ -1,114 +1,145 @@
-<h1 align="center">Hi, I'm Maceo Cardinale Kwik 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake.svg" />
+</picture>
 
-<h3 align="center">Full Stack Software Engineer @ Traba | Building the Future of Work</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Maceo+%F0%9F%91%8B;Full+Stack+Engineer+%40+Traba;Building+the+Future+of+Work;Top+0.1%25+IMC+Trading+Challenge;Summa+Cum+Laude+%7C+4.0+GPA" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maceo-cardinale-kwik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/maceoCK"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=maceoCK&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a Full Stack Software Engineer based in Brooklyn, NYC, currently building transformative labor marketplace solutions at **[Traba](https://traba.work)** — a rapidly scaling startup backed by Founders Fund, Khosla Ventures, and General Catalyst. I graduated **Summa Cum Laude** with a 4.0 GPA in Computer Science from Virginia Tech, and I'm passionate about creating elegant, scalable systems that solve real-world problems.
-
-Previously, I engineered high-performance backends and data systems at Simon Computing and Performant Software, optimizing databases handling millions of records and building solutions used by thousands of users. I also placed **top 10 in the US** (top 0.1%) in IMC's Prosperity Trading Challenge, competing against 7,000+ teams with algorithmic trading strategies.
-
-Beyond the code, I'm the co-founder of **Lighthouse Startups**, a non-profit dedicated to fostering entrepreneurship in the student community. I believe in using technology as a force for positive change and building products that matter.
+## 🚀 About Me
 
 ```yaml
-current_focus:
-  company: "Traba"
-  role: "Software Engineer"
-  location: "Brooklyn, NY"
-  working_on:
-    - "Scalable marketplace infrastructure"
-    - "AI/ML-powered matching systems"
-    - "Full-stack product development"
+name: Maceo Cardinale Kwik
+location: Brooklyn, NYC
+current_role: Full Stack Software Engineer @ Traba
+
+education:
+  degree: B.S. Computer Science
+  school: Virginia Tech
+  honors: Summa Cum Laude | 4.0 GPA
+
+achievements:
+  - "Top 10 in US (Top 0.1%) - IMC Prosperity Trading Challenge"
+  - "Co-founder of Lighthouse Startups (non-profit)"
+  - "Built systems handling millions of records"
+
+currently_building:
+  - "Scalable marketplace infrastructure"
+  - "AI/ML-powered matching systems"
+  - "Full-stack product features"
+
+fun_facts:
+  - "Competitive fencer ⚔️"
+  - "Avid boulderer 🧗"
+  - "Sci-fi book enthusiast 📚"
+  - "Vintage thrifter 🛍️"
 ```
----
-![](https://raw.githubusercontent.com/maceoCK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/maceoCK/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 
-### 🛠️ Tech Stack
+## 🏆 GitHub Trophies
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Infrastructure**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maceoCK&theme=discord&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-### 🚀 What I'm Working On
+## 📊 GitHub Stats
 
-- 🏗️ Building high-impact features for Traba's labor marketplace platform
-- 🤖 Exploring advanced ML/AI applications in matching algorithms and predictive systems
-- 🌱 Deepening expertise in distributed systems and real-time data processing
-- 📊 Contributing to open-source projects focused on ethical technology and social impact
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maceoCK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maceoCK&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</p>
 
----
-
-### 💡 Open to Collaborate On
-
-- 🤝 Full-stack applications with social impact
-- 🧠 Machine learning and data-driven products
-- 🌍 Projects at the intersection of technology and ethics
-- 🚀 Early-stage startup ventures
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maceoCK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
+</p>
 
 ---
 
-### 🎯 Beyond Code
+## 📈 Contribution Graph
 
-When I'm not engineering solutions, you'll find me:
-- ⚔️ Fencing competitively
-- 📸 Capturing moments through photography
-- 🧗 Bouldering and pushing physical limits
-- 🏃 Training for my next race
-- 🧵 Creating through sewing and crocheting
-- 📚 Immersed in science fiction novels
-- 🛍️ Hunting for vintage treasures while thrifting
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maceoCK&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-I'm always interested in connecting with fellow engineers, founders, and builders. Whether you want to discuss tech, collaborate on a project, or just chat about sci-fi books — feel free to reach out!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,java,swift&theme=dark" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,fastapi,flask&theme=dark" alt="Frameworks"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,terraform,aws,azure,git&theme=dark" alt="Infrastructure"/>
+</p>
+
+---
+
+## 🎵 Vibing To
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=maceock&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=maceock&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=false" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+---
+
+## 🎯 What I'm Up To
+
+<table align="center">
+  <tr>
+    <td>🏗️</td>
+    <td>Building high-impact features at <b>Traba's</b> labor marketplace</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>Exploring ML/AI in matching algorithms & predictive systems</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Deepening expertise in distributed systems & real-time data</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Contributing to open-source with social impact</td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Build Together
+
+<p align="center">
+  <i>I'm always down to connect with fellow engineers, founders, and builders.<br/>
+  Whether it's tech, startups, or sci-fi books — let's chat!</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maceo-cardinale-kwik">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building products that matter, one commit at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
 </p>
