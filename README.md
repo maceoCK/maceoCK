@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake.svg" />
-</picture>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Maceo+%F0%9F%91%8B;Full+Stack+Engineer+%40+Traba;Building+the+Future+of+Work;Top+0.1%25+IMC+Trading+Challenge;Summa+Cum+Laude+%7C+4.0+GPA" alt="Typing SVG" />
 </h1>
@@ -47,13 +41,6 @@ fun_facts:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maceoCK&theme=discord&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -139,6 +126,11 @@ fun_facts:
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maceoCK/maceoCK/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
