@@ -101,14 +101,7 @@ fun_facts:
   3. Customize your widget (use theme: novatorem, bg: 0d1117, bar: a855f7)
   4. Copy the markdown and replace the placeholder image below with your personalized URL
 -->
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://img.shields.io/badge/Spotify-Connect_to_Enable-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Connect Spotify"/>
-  </a>
-</p>
-<p align="center">
-  <sub>👆 Set up at <a href="https://spotify-github-profile.kittinanx.com">spotify-github-profile.kittinanx.com</a> to show what you're listening to!</sub>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xaos__&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xaos__&redirect=true)
 
 ---
 
