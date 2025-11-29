@@ -58,12 +58,12 @@ fun_facts:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maceoCK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maceoCK&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maceoCK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=maceoCK&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maceoCK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maceoCK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
 </p>
 
 ---
@@ -92,13 +92,16 @@ fun_facts:
 
 ---
 
-## 🎵 Vibing To
+## 🎵 Now Playing
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=maceock&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=maceock&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=false" alt="Spotify Now Playing"/>
-  </a>
-</p>
+<!--
+  🎧 SPOTIFY SETUP REQUIRED:
+  1. Go to https://spotify-github-profile.kittinanx.com
+  2. Click "Login with Spotify" and authorize the app
+  3. Customize your widget (use theme: novatorem, bg: 0d1117, bar: a855f7)
+  4. Copy the markdown and replace the placeholder image below with your personalized URL
+-->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xaos__&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xaos__&redirect=true)
 
 ---
 
