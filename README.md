@@ -49,9 +49,6 @@ fun_facts:
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=maceoCK&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maceoCK&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
-</p>
 
 ---
 
